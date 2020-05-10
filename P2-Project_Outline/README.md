@@ -7,12 +7,36 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+I want to build a web app that helps users search for towing services 
+in their area. This app would be used mainly by companies that offer 
+roadside assistance to their customers. This app would allow reps to 
+search for towing companies based on certain criteria and allow their customers to 
+search and contact roadside services as well.
+
+This idea comes from my experience working as a customer service representative
+at a company that offers roadside assistance. At present, there is 
+a need to simplify the process of helping customers get that assistance.
+
 ### Features
-Include Features here
+- Optional login or use as guest capability.
+- Search by zipcode, name, type of service needed.
+- Allow customers to enter pick-up and destination info
+- Compare button to compare prices and services offered
+- Chat feature to ask questions.
+- Contact feature to call (mobile).
+
 ### Technologies
-Include Technologies here
+
+- PHP
+- MySQL
+- Atom 
+
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn how to build a database from scratch, as well as authentication for 
+login. I plan to make this app mobile-friendly, so I will probably look into Kik framework.
+
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/DMDCWUVF
